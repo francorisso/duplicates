@@ -1,0 +1,12 @@
+{
+  "name": "duplicates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "frisso",
+  "license": "MIT",
+  "dependencies": {
+    "checksum": "^1.0.0",
+    "prompt": "^1.2.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
